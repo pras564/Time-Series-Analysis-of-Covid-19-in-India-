@@ -28,7 +28,9 @@ and ARIMA model building.
 
 Notebook ---- https://github.com/pras564/Time-Series-Analysis-of-Covid-19-in-India-/blob/eefc0b3ecdeff0609e6dcef763cac732d2a33b86/Covid19%20time%20series%20India%20.ipynb
 
-Insights of notebook- https://github.com/pras564/Time-Series-Analysis-of-Covid-19-in-India-/issues/2#issue-1134036564
+Insights of notebook-
+
+![Screenshot (4)](https://user-images.githubusercontent.com/81767091/153712711-5ef12865-4cc1-45c0-a64d-05bb4ae73c25.png)
 
 
 
