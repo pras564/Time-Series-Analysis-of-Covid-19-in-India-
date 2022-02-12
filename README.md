@@ -32,6 +32,8 @@ Insights of notebook-
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/81767091/153712711-5ef12865-4cc1-45c0-a64d-05bb4ae73c25.png)
 
+Seasonal decompose 
+![seasonal_decomposition](https://user-images.githubusercontent.com/81767091/153713123-be0cfefe-54b1-4637-8908-384dacf75faf.png)
 
 
 
