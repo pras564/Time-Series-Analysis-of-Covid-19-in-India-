@@ -6,9 +6,9 @@ levels and trends over time which can help to plan effective preventive measures
 time-series analysis was used.To perform time series analyis ARIMA model was used. 
 
 Data:-
-Data LinK - https://data.covid19india.org/
+Data Link - https://data.covid19india.org/
 
-Data Dictionary 
+Data Dictionary - 
 
 Dataset was taken from data.covid19.India.org 
 Data had 23080 rows and 5 Columns.
