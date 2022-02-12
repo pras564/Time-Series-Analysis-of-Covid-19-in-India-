@@ -26,6 +26,7 @@ Data is decribed in the above table with example.
 This notebook consist of all the data processing, EDA for getting the insights of the dataset , seasonl decomposition for knowing the trend, seasonality in the dataset, 
 and ARIMA model building. 
 
+Notebook ---- https://github.com/pras564/Time-Series-Analysis-of-Covid-19-in-India-/blob/eefc0b3ecdeff0609e6dcef763cac732d2a33b86/Covid19%20time%20series%20India%20.ipynb
 
 
 
