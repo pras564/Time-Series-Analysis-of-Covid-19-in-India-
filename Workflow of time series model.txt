@@ -1,0 +1,25 @@
+
+RoadMap of this Project 
+Data Collection ----> Data Processing ------> EDA  -----> Seasonal Decomposition -----> Test for Stationary(ADF)----> 
+Transformation ------> Arima Model ------> Forecasting. 
+
+
+                                                   
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
