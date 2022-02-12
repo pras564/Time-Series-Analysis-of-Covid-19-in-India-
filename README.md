@@ -8,7 +8,7 @@ time-series analysis was used.To perform time series analyis ARIMA model was use
 Data:-
 Data Link - https://data.covid19india.org/
 
-Data Dictionary - DataDescription.txt
+Data Dictionary - https://github.com/pras564/Time-Series-Analysis-of-Covid-19-in-India-/blob/238dc8a2abd9b274852f564856c49e1d30915a5c/Data%20Description.txt
 
 Dataset was taken from data.covid19.India.org 
 Data had 23080 rows and 5 Columns.
