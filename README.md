@@ -9,21 +9,6 @@ Data:-
 Data LinK - https://data.covid19india.org/
 
 Data Dictionary 
------------------------------------------------------------------------------------------------
-Field Name   |  Data Type   |      Description                                 |    Example    |
-             |              |                                                  |               |
-Date         |   Date_type  |  when cases were confirmed                       |   30/01/2020  |
-             |              |                                                  |               |
-state        |     char     |  state in which cases were confirmed             |     kerala    |
-             |              |                                                  |               |
-Confirmed    |     int      |  Number of cases confirmed in each day           |        2      |
-             |              |                                                  |               |
-             |              |                                                  |               |
-Recovered    |     int      |  Number of people recovered from covid19 in a day|        3      |
-             |              |                                                  |               |
-             |              |                                                  |               |
-Deceased     |     int      |  Number of people deceased from covid19 in a day |        3      |
-------------------------------------------------------------------------------------------------
 
 Dataset was taken from data.covid19.India.org 
 Data had 23080 rows and 5 Columns.
