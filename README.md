@@ -15,6 +15,7 @@ Data had 23080 rows and 5 Columns.
 Data is decribed in the above table with example.
 
 Project Workflow:-
+https://github.com/pras564/Time-Series-Analysis-of-Covid-19-in-India-/blob/835e12810a9fe798729603e58b5ab97c0f84de69/Workflow%20of%20time%20series%20model.txt
 
 
 
