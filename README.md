@@ -35,6 +35,13 @@ Insights of notebook-
 Seasonal decompose 
 ![seasonal_decomposition](https://user-images.githubusercontent.com/81767091/153713123-be0cfefe-54b1-4637-8908-384dacf75faf.png)
 
+Forecast Of ARIMA model 
+![ARIMA MODEL FORECAST](https://user-images.githubusercontent.com/81767091/153713339-1442f102-7cca-4311-9e32-7feda4e22dc0.png)
+
+
+* FUTURE WORK 
+Deployment of the model. 
+
 
 
 
